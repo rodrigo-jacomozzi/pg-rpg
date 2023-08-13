@@ -127,6 +127,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+pgrpg-env/
 
 # Spyder project settings
 .spyderproject
