@@ -1,2 +1,4 @@
 # pg-rpg
-prog gen rpg
+Proc-Gen RPG
+
+RPG adventures + Proc Gen + AI
